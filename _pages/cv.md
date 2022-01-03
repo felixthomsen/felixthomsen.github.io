@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](http://felixthomsen.github.io/files/CV.pdf)
+Download [here](http://felixthomsen.github.io/files/CV.pdf)
 
