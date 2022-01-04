@@ -16,7 +16,7 @@ Research Interests
 ======
 I am a theorist working on quantum computing. 
 
-Currently I am primarily working on the following topics
+Currently, I am primarily working on the following topics
 * quantum error correction and fault-tolerant architecture design
 * noise-protected superconducting qubits
 
