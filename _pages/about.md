@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I live in Sydney and am completing a PhD in physics at the University of Sydney advised by [Stephen Bartlett](https://scholar.google.com.au/citations?user=eL6YI1wAAAAJ&hl=en). Prior to this I worked at [Q-CTRL] (https://q-ctrl.com) as a quantum control engineer. I grew up in Germany and previously studied physics, computer science and mechatronic & space engineering at USyd.
+I live in Sydney and am completing a PhD in physics at the University of Sydney advised by [Stephen Bartlett](https://scholar.google.com.au/citations?user=eL6YI1wAAAAJ&hl=en). Prior to this I worked at [Q-CTRL](https://q-ctrl.com) as a quantum control engineer. I grew up in Germany and previously studied physics, computer science and mechatronic & space engineering at USyd.
 
 
 
