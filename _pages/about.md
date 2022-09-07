@@ -18,5 +18,5 @@ I am a theorist working on quantum computing.
 
 Currently, I am primarily working on the following topics
 * quantum error correction and fault-tolerance
-* noise-protected qubits
+* noise-protected superconducting qubits
 
